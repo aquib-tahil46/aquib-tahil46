@@ -57,7 +57,7 @@ Stakeholder-ready dashboards visualising end-to-end cross-border payment flows �
 | ✅ **Salesforce Certified: Tableau Desktop Foundations** | Salesforce / Trailhead | April 2026 |
 | 📜 Professional Certificate in Blockchain | IIT Kanpur | Jan 2026 |
 | 📜 Professional Certificate in FinTech | IIT Delhi | Apr 2025 |
-| 📜 Microsoft Excel: Beginner to Expert | Udemy | — |
+| 📜 Microsoft Excel: Beginner to Expert | Udemy | Apr 2025  |
 
 > 🔗 Tableau cert Credential ID: **7616752** · [Verify here](https://sforce.co/verifycerts)
 
