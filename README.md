@@ -1,6 +1,6 @@
 # Hi, I'm Aquib Tahil 👋
 
-### BI & Tableau Analyst | BFSI Domain | 9+ Years
+### BI & Business Analyst | Tableau Developer | BFSI Domain | 9+ Years
 
 I turn complex banking and financial data into clear, decision-ready insights — through intuitive Tableau dashboards, robust SQL pipelines, and structured data storytelling.
 
