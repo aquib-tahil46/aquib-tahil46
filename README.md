@@ -42,7 +42,17 @@ Interactive Tableau dashboard analysing banking transaction data — uncovering 
 Comprehensive fraud investigation dashboard built on 50,000+ transaction records. Features drill-through views by risk type, geography, amount band, and time of day. Rule-based logic reduced false-positive alerts by 30%.
 
 ---
+### 🏦 BFSI Analytics Dashboard — Power BI
 
+| Tableau · MySQL · DAX · Star Schema
+
+End-to-end BI dashboard covering 7 BFSI business scenarios — Sales Trend, Revenue Decline, 
+Loan Default, Customer Churn, Branch KPI, Region Performance, and Product Profitability. 
+Built on MySQL star schema with 6 SQL views and 12 DAX measures.
+
+**Key Finding:** Bank is aggressively selling Loans (24% margin, 50% default rate) while 
+Deposits and Insurance — 2× more profitable — sit underutilised. Data makes the case for 
+a product mix rebalancing.
 
 ---
 ### 🏦 [Loan Portfolio Risk Analysis Dashboard](https://github.com/aquib-tahil46/Loan-Portfolio-Risk-Analysis-Lending-Club-2007-2013-)
