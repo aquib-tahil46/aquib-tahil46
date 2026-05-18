@@ -43,18 +43,6 @@ Comprehensive fraud investigation dashboard built on 50,000+ transaction records
 
 ---
 
-### 🏦 Loan Portfolio Risk Analysis Dashboard
-| Tableau · MySQL · Star Schema
-
-End-to-end credit risk analytics on 100,000 Lending Club 
-loans (2007–2013). Built 3-table star schema in MySQL with 
-complex JOINs, CTEs, Window Functions. Tableau dashboards 
-using FIXED/INCLUDE/EXCLUDE LOD, Dual Axis, 8 chart types, 
-2 dashboards + 2 story points.
-
-**Key Finding:** Grade G carries 27% NPA with <3% recovery.
-
-[📊 Live Dashboard](https://public.tableau.com/app/profile/aquib.tahil8642/viz/Lending_club_17775741205830/Dashboard1?publish=yes) | [💻 GitHub Repo](https://github.com/aquib-tahil46/Loan-Portfolio-Risk-Analysis-Lending-Club-2007-2013-)
 
 ---
 ### 🏦 [Loan Portfolio Risk Analysis Dashboard](https://github.com/aquib-tahil46/Loan-Portfolio-Risk-Analysis-Lending-Club-2007-2013-)
