@@ -42,7 +42,7 @@ Interactive Tableau dashboard analysing banking transaction data — uncovering 
 Comprehensive fraud investigation dashboard built on 50,000+ transaction records. Features drill-through views by risk type, geography, amount band, and time of day. Rule-based logic reduced false-positive alerts by 30%.
 
 ---
-### 🏦 BFSI Analytics Dashboard — Power BI
+### [🏦 BFSI Analytics Dashboard — Power BI](https://github.com/aquib-tahil46/BFSI-PowerBI-dashboard)
 
 | Tableau · MySQL · DAX · Star Schema
 
