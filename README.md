@@ -69,9 +69,11 @@ FIXED/INCLUDE/EXCLUDE LOD, Dual Axis, 8 chart types,
 [📊 Live Dashboard](https://public.tableau.com/app/profile/aquib.tahil8642/viz/Lending_club_17775741205830/Dashboard1?publish=yes) | [💻 GitHub Repo](https://github.com/aquib-tahil46/Loan-Portfolio-Risk-Analysis-Lending-Club-2007-2013-)
 
 ---
-🏦 Wealth Banking MIS Migration Dashboard
+🏦**Wealth Banking MIS Migration Dashboard**
 | Tableau · MySQL · Executive BI Story
+
 End-to-end Wealth Banking MIS migration from Excel to MySQL + Tableau. Covers ₹21.54B portfolio across 5 zones, 11 products, and 100 Wealth Managers. Full SQL pipeline — 4-step data cleaning, 13 analytics queries, CTEs, Window Functions, and RANK(). Two executive dashboards + 7-point Tableau Story with KPI tiles, bullet charts, heatmap, bubble chart, treemap, and performance segmentation.
+
 Key Finding: Greater Kolkata trails Kolkata South by 15.4% — HL & Deposits carry ₹0.93B gap each, with 5 Critical WMs requiring immediate intervention.
 📊 Live Dashboard | 💻 GitHub Repo
 ---
