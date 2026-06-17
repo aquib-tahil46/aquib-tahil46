@@ -36,7 +36,7 @@ Interactive Tableau dashboard analysing banking transaction data — uncovering 
 
 ### 🛒 [E-Commerce Sales Dashboard](https://github.com/yourusername/Ecommerce-PowerBI-Dashboard)
 
-Power BI · Power Query · DAX · CSV
+ | Power BI · Power Query · DAX · CSV
 
  Interactive Power BI dashboard analyzing e-commerce sales performance, profitability, customer purchasing trends, and payment behavior across multiple product categories and states.
  Built using Power BI, Power Query, and DAX to deliver actionable business insights through interactive visualizations and KPI-driven reporting.
