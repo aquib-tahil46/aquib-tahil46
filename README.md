@@ -35,6 +35,22 @@ Based in **Kolkata, India** · Open to **Remote & On-site** opportunities
 Interactive Tableau dashboard analysing banking transaction data — uncovering digital payment patterns, channel-wise trends, and customer segment behaviour across large transaction volumes.
 
 ---
+**🛒 E-Commerce Sales Dashboard**
+
+Power BI · Power Query · DAX · CSV
+
+End-to-end BI dashboard built from 2 raw CSV files (500 orders × 1,500 line items) — no SQL involved.
+Covers sales performance across 19 Indian states, 3 product categories, and 5 payment modes for FY 2018.
+Highlights: ₹4.38L revenue | ₹37K profit | 5,615 units | Maharashtra #1 state | COD 44% share
+Demonstrates: data modelling, Power Query transformation, DAX measures, and executive dashboard design.
+Suggested repo name:
+Ecommerce-PowerBI-Dashboard
+Suggested repo description (GitHub "About" field):
+Power BI dashboard built from raw CSV files | E-Commerce Sales Analysis | DAX | Power Query | No SQL
+Suggested topics/tags to add on GitHub:
+powerbi dax power-query data-visualization business-intelligence ecommerce sales-analytics csv dashboard
+
+---
 
 ### 🔍 [Fraud Detection & Risk Analysis Dashboard](https://github.com/aquib-tahil46/fraud-detection-tableau-dashboard)
 > Tableau · SQL · Excel
