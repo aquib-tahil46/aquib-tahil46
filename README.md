@@ -38,10 +38,10 @@ Interactive Tableau dashboard analysing banking transaction data — uncovering 
 
 Power BI · Power Query · DAX · CSV
 
-Interactive Power BI dashboard analyzing e-commerce sales performance, profitability, customer purchasing trends, and payment behavior across multiple product categories and states.
-
-Built using Power BI, Power Query, and DAX to deliver actionable business insights through interactive visualizations and KPI-driven reporting.
----
+ Interactive Power BI dashboard analyzing e-commerce sales performance, profitability, customer purchasing trends, and payment behavior across multiple product categories and states.
+ Built using Power BI, Power Query, and DAX to deliver actionable business insights through interactive visualizations and KPI-driven reporting.
+ 
+ ---
 
 ### 🔍 [Fraud Detection & Risk Analysis Dashboard](https://github.com/aquib-tahil46/fraud-detection-tableau-dashboard)
 > Tableau · SQL · Excel
