@@ -61,7 +61,7 @@ Interactive Power BI dashboard analyzing e-commerce sales performance, profitabi
 
 **Key Finding:** Maharashtra leads all states by sales, Clothing drives 63% of quantity sold, and COD remains the dominant payment mode at 44% — while Printers generate the highest profit of any sub-category, despite lower sales volume.
 
-[GitHub Repo](https://github.com/aquib-tahil46/ecommerce-sales-dashboard)
+[GitHub Repo](https://github.com/aquib-tahil46/E-Commerce-Sales-Dashboard-Power-BI)
 
 ---
 ### 🔍 [Fraud Detection & Risk Analysis Dashboard](https://github.com/aquib-tahil46/fraud-detection-tableau-dashboard)
