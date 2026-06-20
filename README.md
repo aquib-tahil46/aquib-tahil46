@@ -45,7 +45,7 @@ Interactive Tableau dashboard analysing banking transaction data — uncovering 
 
 ---
 
-# 📊E-commerce Sales Dashboard
+# 📊 E-commerce Sales Dashboard
 
 | Power BI · Power Query · DAX
 
@@ -53,7 +53,7 @@ Interactive Power BI dashboard analyzing e-commerce sales performance, profitabi
 
 Key Finding: Maharashtra leads all states by sales, Clothing drives 63% of quantity sold, and COD remains the dominant payment mode at 44% — while Printers generate the highest profit of any sub-category, despite lower sales volume.
 
-📊 Dashboard Preview | 📁 GitHub Repo
+GitHub Repo
 ---
 
 ---
