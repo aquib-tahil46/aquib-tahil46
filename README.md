@@ -122,8 +122,8 @@ Stakeholder-ready dashboards visualising end-to-end cross-border payment flows �
 
 | Role | Organisation | Period |
 |---|---|---|
-| Reporting Analyst – Wealth Management | ICICI Bank | Apr 2023 – Jan 2026 |
-| Customer Analytics & Service Manager | Axis Bank | Jun 2016 – Jan 2023 |
+| BI Analyst – Wealth & Business Analytics | ICICI Bank | Apr 2023 – Jan 2026 |
+| Data Analyst - Customer Analytics & MIS Reporting | Axis Bank | Jun 2016 – Jan 2023 |
 
 ---
 
