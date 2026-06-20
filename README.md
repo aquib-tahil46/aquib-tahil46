@@ -1,10 +1,10 @@
 # Hi, I'm Aquib Tahil 👋
 
-### Data Analyst | Tableau Developer | BFSI Domain | 9+ Years
+### Data Analyst | Tableau & Power BI Developer | BFSI Domain | 9+ Years
 
-I turn complex banking and financial data into clear, decision-ready insights — through intuitive Tableau dashboards, robust SQL pipelines, and structured data storytelling.
+I turn complex banking and financial data into clear, decision-ready insights — through intuitive Tableau and Power BI dashboards, robust SQL pipelines, and structured data storytelling.
 
-Based in **Kolkata, India** · Open to **Remote & On-site** opportunities
+📍 Based in **Kolkata, India** · Open to **Remote & On-site** opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aquibtahil-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aquibtahil/)
 [![Email](https://img.shields.io/badge/Email-a.tahil2@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:a.tahil2@gmail.com)
