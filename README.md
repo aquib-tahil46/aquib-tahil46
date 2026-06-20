@@ -37,6 +37,15 @@ End-to-end Wealth Banking MIS migration from Excel to MySQL + Tableau. Covers �
 **Key Finding:** Greater Kolkata trails Kolkata South by 15.4% — HL & Deposits carry ₹0.93B gap each, with 5 Critical WMs requiring immediate intervention.
 
 [📊 Live Dashboard](https://public.tableau.com/app/profile/aquib.tahil8642/viz/Wealth_MIS_Migration_Executive_Dashboard/Story1) | [💻 GitHub Repo](https://github.com/aquib-tahil46/wealth-mis-migration-dashboard)
+---
+### 👥 [HR Analytics Dashboard](https://github.com/aquib-tahil46/hr-analytics-dashboard)
+| Power BI · DAX · Star Schema
+
+Workforce analytics dashboard analyzing attrition trends across 1,470 employees to uncover key drivers of employee exit and support data-driven retention strategies. Built using DAX measures, star schema data modeling, and interactive cross-filtering by department, age band, and salary band.
+
+**Key Finding:** Attrition Rate stands at 16.2% — driven disproportionately by first-year employees, the 26-35 age group, and staff in sub-5K salary bands, pointing to onboarding and early-career compensation as the highest-leverage retention levers.
+
+[GitHub Repo](https://github.com/aquib-tahil46/hr-analytics-dashboard)
 
 ---
 ### 🏦 [Banking Transactions Analysis Dashboard](https://github.com/aquib-tahil46/banking-transactions-analysis)
@@ -45,15 +54,14 @@ Interactive Tableau dashboard analysing banking transaction data — uncovering 
 
 ---
 
-# 📊 E-commerce Sales Dashboard
-
+### 📊 [E-commerce Sales Dashboard](https://github.com/aquib-tahil46/ecommerce-sales-dashboard)
 | Power BI · Power Query · DAX
 
 Interactive Power BI dashboard analyzing e-commerce sales performance, profitability, customer purchasing trends, and payment behavior across multiple product categories and states. Built using Power BI, Power Query, and DAX to deliver actionable business insights through interactive visualizations and KPI-driven reporting.
 
-Key Finding: Maharashtra leads all states by sales, Clothing drives 63% of quantity sold, and COD remains the dominant payment mode at 44% — while Printers generate the highest profit of any sub-category, despite lower sales volume.
+**Key Finding:** Maharashtra leads all states by sales, Clothing drives 63% of quantity sold, and COD remains the dominant payment mode at 44% — while Printers generate the highest profit of any sub-category, despite lower sales volume.
 
-GitHub Repo
+[GitHub Repo](https://github.com/aquib-tahil46/ecommerce-sales-dashboard)
 ---
 
 ---
