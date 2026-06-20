@@ -43,14 +43,6 @@ End-to-end Wealth Banking MIS migration from Excel to MySQL + Tableau. Covers �
 > Tableau · MySQL
 Interactive Tableau dashboard analysing banking transaction data — uncovering digital payment patterns, channel-wise trends, and customer segment behaviour across large transaction volumes.
 
----
-### 🛒 [E-Commerce Sales Dashboard](https://github.com/yourusername/Ecommerce-PowerBI-Dashboard)
-
- | Power BI · Power Query · DAX · CSV
-
- Interactive Power BI dashboard analyzing e-commerce sales performance, profitability, customer purchasing trends, and payment behavior across multiple product categories and states.
- Built using Power BI, Power Query, and DAX to deliver actionable business insights through interactive visualizations and KPI-driven reporting.
- 
  ---
 
 ### 🔍 [Fraud Detection & Risk Analysis Dashboard](https://github.com/aquib-tahil46/fraud-detection-tableau-dashboard)
