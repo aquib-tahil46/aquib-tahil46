@@ -59,8 +59,8 @@ Interactive Tableau dashboard analysing banking transaction data — uncovering 
 
 Executive sales and profitability dashboard built on ~3,000 SuperStore retail transactions. Covers $2M in sales, $175K profit, and 22K units across 4 regions, 3 categories, and 17 sub-categories. Single fact table modeled with role-playing date dimensions (Order Date/Ship Date), DAX calculated columns for delivery time and sales aggregation, and Power BI's native forecasting engine projecting 15-day sales with confidence intervals.
 **Key Finding:** West region outpaces Central by 53% ($0.52M vs $0.34M sales) — pointing to under-invested regions for marketing reallocation. Standard Class shipping carries 58.3% of order volume, and COD accounts for 51.6% of payment mode, flagging both a logistics-efficiency lever and a working-capital risk for stakeholders to act on.
-[GitHub Repo](https://github.com/aquib-tahil46/superstore-sales-dashboard)
 
+[GitHub Repo]([https://github.com/aquib-tahil46/SuperStore-Executive-Sales-Performance-Dashboard))
 ---
 
 ### 📊 [E-commerce Sales Dashboard](https://github.com/aquib-tahil46/ecommerce-sales-dashboard)
