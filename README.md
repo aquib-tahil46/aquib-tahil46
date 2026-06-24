@@ -54,7 +54,7 @@ Interactive Tableau dashboard analysing banking transaction data — uncovering 
 
 ---
 
-📊 **Executive Sales Performance Dashboard (SuperStore)**
+### 📊 [Executive Sales Performance Dashboard (SuperStore)](https://github.com/aquib-tahil46/SuperStore-Executive-Sales-Performance-Dashboard)
 | Power BI · DAX · Forecasting
 
 Executive sales and profitability dashboard built on ~3,000 SuperStore retail transactions. Covers $2M in sales, $175K profit, and 22K units across 4 regions, 3 categories, and 17 sub-categories. Single fact table modeled with role-playing date dimensions (Order Date/Ship Date), DAX calculated columns for delivery time and sales aggregation, and Power BI's native forecasting engine projecting 15-day sales with confidence intervals.
