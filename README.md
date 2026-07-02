@@ -28,6 +28,19 @@ I turn complex banking and financial data into clear, decision-ready insights �
 ---
 
 ## 📂 Featured Projects
+
+---
+## 🏦 Tableau → Power BI Migration Dashboard
+
+| Power BI • Tableau • SQL • DAX • Power Query • Star Schema |
+
+Enterprise BI migration case study demonstrating how a Wealth Banking MIS was successfully migrated from **Excel → Tableau → Power BI** while preserving governed KPIs, business logic, and executive reporting standards. Built using Power Query, SQL data transformation, Star Schema, DAX measures, Time Intelligence, and Row-Level Security (RLS) across a **₹21.54B AUM** portfolio covering **100 Wealth Managers, 53 Branches, and 11 financial products**.
+
+Key Findings: Reduced reporting turnaround from **3 days to same-day delivery**, identified **39 at-risk Wealth Managers**, highlighted a **₹4B target gap**, uncovered product mix optimization opportunities, and demonstrated complete portability of business logic across BI platforms.
+
+📊 📊 **[Dashboard Preview](https://github.com/aquib-tahil46/Tableau-Power-BI-Migration/blob/main/Wealth_MIS_Migration.pdf)** | 💻 **[GitHub Repo](https://github.com/aquib-tahil46/Tableau-Power-BI-Migration)** | 💻 **[GitHub Repo](https://github.com/aquib-tahil46/Tableau-Power-BI-Migration)**
+
+
 ---
 ### 🏦 [Wealth Banking MIS Migration Dashboard](https://github.com/aquib-tahil46/wealth-mis-migration-dashboard)
 | Tableau · MySQL · Executive BI Story
