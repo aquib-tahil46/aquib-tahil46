@@ -38,7 +38,7 @@ Enterprise BI migration case study demonstrating how a Wealth Banking MIS was su
 
 **Key Findings:** Reduced reporting turnaround from **3 days to same-day delivery**, identified **39 at-risk Wealth Managers**, highlighted a **₹4B target gap**, and demonstrated complete portability of business logic across BI platforms.
 
-📊 **[Dashboard Preview](YOUR_DASHBOARD_LINK)** |
+📊 **[Dashboard Preview](https://github.com/aquib-tahil46/Tableau-Power-BI-Migration/blob/main/Wealth_MIS_Migration.pdf)** |
 💻 **[GitHub Repo](https://github.com/aquib-tahil46/Tableau-Power-BI-Migration)**
 
 
