@@ -52,6 +52,18 @@ End-to-end Wealth Banking MIS migration from Excel to MySQL + Tableau. Covers �
 
 [📊 Live Dashboard](https://public.tableau.com/app/profile/aquib.tahil8642/viz/Wealth_MIS_Migration_Executive_Dashboard/Story1) | [💻 GitHub Repo](https://github.com/aquib-tahil46/wealth-mis-migration-dashboard)
 ---
+### 💳 [Credit Card Analytics Dashboard](https://github.com/aquib-tahil46/Credit-Card-Analytics-Dashboard)
+
+| Power BI • MySQL • Advanced Excel • DAX • Star Schema |
+
+Credit card analytics project analyzing transaction behavior and customer risk across 10K+ customers and ₹118Cr+ in revenue. Built a MySQL star schema (credit_card + customer tables) and two Power BI dashboards covering revenue trends, card category performance, and delinquency risk by income group.
+
+**Key Finding:** Blue card category drives 68.7% of total revenue, while Platinum and High-income segments show the highest delinquency concentration (5.97%) — flagging a risk-limit mismatch worth addressing.
+
+📊 [Dashboard Preview](https://github.com/aquib-tahil46/Credit-Card-Analytics-Dashboard/blob/main/transaction-report.png) | 💻 [GitHub Repo](https://github.com/aquib-tahil46/Credit-Card-Analytics-Dashboard)
+
+
+---
 ### 👥 [HR Analytics Dashboard](https://github.com/aquib-tahil46/hr-analytics-dashboard)
 | Power BI · DAX · Star Schema
 
