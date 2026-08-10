@@ -85,7 +85,8 @@ Workforce analytics dashboard analyzing attrition trends across 1,470 employees 
 ### 🏦 [Banking Transactions Analysis Dashboard](https://github.com/aquib-tahil46/banking-transactions-analysis)
 > Tableau · MySQL
 Interactive Tableau dashboard analysing banking transaction data — uncovering digital payment patterns, channel-wise trends, and customer segment behaviour across large transaction volumes.
-
+> 
+📊 [ Dashboard Preview](https://github.com/aquib-tahil46/banking-transactions-analysis/blob/main/DASHBOARD_BANKING_TRANSACTIONS.png) | 💻 [ GitHub Repo](https://github.com/aquib-tahil46/banking-transactions-analysis)
 ---
 
 ### 📊 [Executive Sales Performance Dashboard (SuperStore)](https://github.com/aquib-tahil46/SuperStore-Executive-Sales-Performance-Dashboard)
