@@ -63,14 +63,14 @@ Credit card analytics project analyzing transaction behavior and customer risk a
 📊 [Dashboard Preview](https://github.com/aquib-tahil46/Credit-Card-Analytics-Dashboard/blob/main/transaction-report.png) | 💻 [GitHub Repo](https://github.com/aquib-tahil46/Credit-Card-Analytics-Dashboard)
 
 ---
-### 🍫 Chocolate Sales Performance Dashboard
+### 🍫 [Chocolate Sales Performance Dashboard](https://github.com/aquib-tahil46/Chocolate_Sales_Performance_Dashboard)
 *| Power BI | MySQL | SQL | DAX | Star Schema |*
 
 End-to-end BI project tracking retail sales performance across 100 stores and 5 countries. Built a MySQL star schema from five raw source files, with SQL-based data cleaning, integrity validation, and 13+ DAX measures powering an interactive Power BI dashboard.
 
 **Key Findings:** ₹25.49M revenue, 3M boxes shipped, 1M orders tracked across 100 stores; identified and documented a 9,764-order (~1%) data-quality gap from invalid product codes during validation, rather than silently excluding it.
 
-[📊 Dashboard Preview](https://github.com/aquib-tahil46/Chocolate-Sales-Performance-/blob/main/dashboard_overview.png) | [💻 GitHub Repo](https://github.com/aquib-tahil46/chocolate-sales-powerbi-dashboard)
+📊 [ Dashboard Preview](https://github.com/aquib-tahil46/Chocolate-Sales-Performance-/blob/main/dashboard_overview.png) | 💻 [ GitHub Repo](https://github.com/aquib-tahil46/chocolate-sales-powerbi-dashboard)
 ---
 ### 👥 [HR Analytics Dashboard](https://github.com/aquib-tahil46/hr-analytics-dashboard)
 | Power BI · DAX · Star Schema
