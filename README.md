@@ -72,6 +72,17 @@ End-to-end BI project tracking retail sales performance across 100 stores and 5 
 
 📊 [ Dashboard Preview](https://github.com/aquib-tahil46/Chocolate-Sales-Performance-/blob/main/dashboard_overview.png) | 💻 [ GitHub Repo](https://github.com/aquib-tahil46/chocolate-sales-powerbi-dashboard)
 ---
+
+### 📊 Sales Performance Dashboard
+
+| Tableau • Excel • Dual-Axis Charts • Parameter Controls • KPI Tiles |
+
+A clean, executive-style Sales Dashboard built to show what "modern & decision-ready" looks like — weekly revenue vs. expense tracking, goal attainment, monthly profit margin trend, and a live Top-Sales leaderboard, all in a single glanceable view.
+
+**Key Findings:** Weekly sales goal attainment sitting at 57% (coaching/target gap flagged), profit margin swinging between 16%–22% with a March dip, and sales consistently peaking mid-week (Tue/Wed) — insights the old static-report format would have buried.
+
+📊 [Dashboard Preview](https://github.com/aquib-tahil46/-Sales-Performance-Dashboard/blob/main/Sales_dshbrd.png) | 💻 [GitHub Repo](https://github.com/aquib-tahil46/-Sales-Performance-Dashboard/tree/main) 
+
 ### 👥 [HR Analytics Dashboard](https://github.com/aquib-tahil46/hr-analytics-dashboard)
 | Power BI · DAX · Star Schema
 
