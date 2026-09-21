@@ -73,7 +73,7 @@ End-to-end BI project tracking retail sales performance across 100 stores and 5 
 📊 [ Dashboard Preview](https://github.com/aquib-tahil46/Chocolate-Sales-Performance-/blob/main/dashboard_overview.png) | 💻 [ GitHub Repo](https://github.com/aquib-tahil46/chocolate-sales-powerbi-dashboard)
 ---
 
-### 📊 Sales Performance Dashboard
+### 📊 [Sales Performance Dashboard].(https://github.com/aquib-tahil46/-Sales-Performance-Dashboard/tree/main)
 
 | Tableau • Excel • Dual-Axis Charts • Parameter Controls • KPI Tiles |
 
