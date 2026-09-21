@@ -155,7 +155,7 @@ FIXED/INCLUDE/EXCLUDE LOD, Dual Axis, 8 chart types,
 ---
 
 ### 🌐 Cross-Border Payment Flow Visualisation
-> Tableau · XRP · R3 Corda
+> PowerPoint· XRP · R3 Corda
 
 Stakeholder-ready dashboards visualising end-to-end cross-border payment flows — highlighting settlement timelines, cost reduction opportunities, and compliance checkpoints across XRP and R3 Corda architecture.
 
