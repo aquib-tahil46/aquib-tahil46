@@ -64,7 +64,7 @@ Credit card analytics project analyzing transaction behavior and customer risk a
 
 ---
 ### 🍫 [Chocolate Sales Performance Dashboard](https://github.com/aquib-tahil46/Chocolate_Sales_Performance_Dashboard)
-*| Power BI | MySQL | SQL | DAX | Star Schema |*
+*| Power BI | SQL | DAX | Star Schema |*
 
 End-to-end BI project tracking retail sales performance across 100 stores and 5 countries. Built a MySQL star schema from five raw source files, with SQL-based data cleaning, integrity validation, and 13+ DAX measures powering an interactive Power BI dashboard.
 
