@@ -13,8 +13,8 @@ I turn complex banking and financial data into clear, decision-ready insights â€
 
 ## ðŸ›  Tech Stack & Skills
 
-**Visualisation**
-`Tableau Desktop` `Tableau Prep` `Calculated Fields` `LOD Expressions` `Dual-Axis Charts` `Drill-Through` `Story Points`
+**Visualisation** 
+`Tableau Desktop` `Power BI` `Power Query` `Tableau Prep` `Calculated Fields` `LOD Expressions` `DAX` `Dual-Axis Charts` `Drill-Through` `Story Points`
 
 **Data & Querying**
 `SQL` `Joins & Subqueries` `Window Functions` `CTEs` `Query Optimisation` `Data Cleaning`
