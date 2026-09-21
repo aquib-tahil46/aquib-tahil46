@@ -7,7 +7,7 @@ I turn complex banking and financial data into clear, decision-ready insights �
 📍 Based in **Kolkata, India** · Open to **Remote & On-site** opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aquibtahil-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aquibtahil/)
-[![Email](https://img.shields.io/badge/Email-a.tahil2@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:a.tahil2@gmail.com)
+[![Email](https://img.shields.io/badge/Email-a.tahil201@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:a.tahil201@gmail.com)
 
 ---
 
