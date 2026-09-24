@@ -1,6 +1,6 @@
 # Hi, I'm Aquib Tahil 👋
 
-### Business Intelligence Analyst | Tableau & Power BI Developer | Data Modeling,Governance & Visualization | 4+ Years Analytics of 9+ Years BFSI Domain
+### Business Intelligence Analyst | Tableau & Power BI Developer | Data Modeling,Governance & Visualization | 4+ Years Analytics of 9+ Years BFSI Domain | PL-300 Certified
 
 I turn complex banking and financial data into clear, decision-ready insights — through intuitive Tableau and Power BI dashboards, robust SQL pipelines, and structured data storytelling.
 
