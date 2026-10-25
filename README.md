@@ -63,6 +63,17 @@ Credit card analytics project analyzing transaction behavior and customer risk a
 📊 [Dashboard Preview](https://github.com/aquib-tahil46/Credit-Card-Analytics-Dashboard/blob/main/transaction-report.png) | 💻 [GitHub Repo](https://github.com/aquib-tahil46/Credit-Card-Analytics-Dashboard)
 
 ---
+🏦 [Loan Portfolio Risk Analytics Dashboard](https://github.com/aquib-tahil46/Loan-Portfolio-Risk-Analytics-Dashboard)
+
+| Power BI • DAX • Power Query • Star Schema |
+
+Power BI dashboard analyzing a ₹270M loan portfolio across loan types, customer segments, states and risk categories. Built on a star schema with two dashboard pages covering portfolio overview and risk analysis.
+
+**Key Finding:** Personal Loans show the highest default rate (26.92%) while Home Loans, the largest segment at ₹101M, show 0%, flagging underwriting tightness as the key lever for the 12.67% overall default rate.
+
+📊 [Dashboard Preview](https://github.com/aquib-tahil46/Loan-Portfolio-Risk-Analytics-Dashboard) | 📁 [GitHub Repo](https://github.com/aquib-tahil46/Loan-Portfolio-Risk-Analytics-Dashboard)
+
+---
 ### 🍫 [Chocolate Sales Performance Dashboard](https://github.com/aquib-tahil46/Chocolate_Sales_Performance_Dashboard)
 *| Power BI | SQL | DAX | Star Schema |*
 
