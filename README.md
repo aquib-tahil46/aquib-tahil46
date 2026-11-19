@@ -32,7 +32,7 @@ I turn complex banking and financial data into clear, decision-ready insights �
 ---
 ## 🏦 [Wealth_MIS_Analytics_Dashboard](https://github.com/aquib-tahil46/Tableau-Power-BI-Migration)
 
-| Power BI • Tableau • SQL • DAX • Power Query • Star Schema |
+| Power BI • Excel • SQL • DAX • Power Query • Star Schema |
 
 Enterprise BI migration case study demonstrating how a Wealth Banking MIS was successfully migrated from **Excel → Tableau → Power BI** while preserving governed KPIs, business logic, and executive reporting standards.
 
