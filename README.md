@@ -43,7 +43,7 @@ Enterprise BI migration case study demonstrating how a Wealth Banking MIS was su
 
 
 ---
-### 🏦 [Wealth Banking MIS Migration Dashboard](https://github.com/aquib-tahil46/wealth-mis-migration-dashboard)
+### 🏦 [Wealth Banking MIS Analytics Dashboard](https://github.com/aquib-tahil46/wealth-mis-migration-dashboard)
 | Tableau · MySQL · Executive BI Story
 
 End-to-end Wealth Banking MIS migration from Excel to MySQL + Tableau. Covers ₹21.54B portfolio across 5 zones, 11 products, and 100 Wealth Managers. Full SQL pipeline — 4-step data cleaning, 13 analytics queries, CTEs, Window Functions, and RANK(). Two executive dashboards + 7-point Tableau Story with KPI tiles, bullet charts, heatmap, bubble chart, treemap, and performance segmentation.
