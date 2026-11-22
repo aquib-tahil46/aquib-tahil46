@@ -30,7 +30,7 @@ I turn complex banking and financial data into clear, decision-ready insights �
 ## 📂 Featured Projects
 
 ---
-## 🏦 [Wealth_MIS_Analytics_Dashboard](https://github.com/aquib-tahil46/Tableau-Power-BI-Migration)
+## 🏦 [Enterprise Wealth_MIS_Analytics_Dashboard](https://github.com/aquib-tahil46/Tableau-Power-BI-Migration)
 
 | Power BI • Excel • SQL • DAX • Power Query • Star Schema |
 
