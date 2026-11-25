@@ -41,6 +41,16 @@ Enterprise BI migration case study demonstrating how a Wealth Banking MIS was su
 📊 **[Dashboard Preview](https://github.com/aquib-tahil46/Tableau-Power-BI-Migration/blob/main/Wealth_MIS_Migration.pdf)** |
 💻 **[GitHub Repo](https://github.com/aquib-tahil46/Tableau-Power-BI-Migration)**
 
+---
+### 🏦 [Banking Fraud Analytics Dashboard](https://github.com/aquib-tahil46/Banking-Fraud-Analytics-Power-BI-Dashboard-using-AI)
+
+| Power BI · Power Query · DAX · Star Schema · Decomposition Tree |
+
+End-to-end fraud analytics project built with free AI tools and validated manually. Covers synthetic banking transaction and fraud datasets, Power Query ETL, a data model with 2 fact and 6 dimension tables, and DAX measures for gross fraud, recovery, net loss and detection rate. The Decomposition Tree traces losses from fraud category to risk band, alert type and investigation status.
+
+**Key Finding:** Gross fraud of ₹291.48M shrinks to ₹189.25M net loss after recovery, so headline exposure and actual loss tell very different stories.
+
+📊 [Project & Dashboard](https://github.com/aquib-tahil46/Banking-Fraud-Analytics-Power-BI-Dashboard-using-AI) | 💻 [GitHub Repo](https://github.com/aquib-tahil46/Banking-Fraud-Analytics-Power-BI-Dashboard-using-AI) | 🎥 [Walkthrough Video](https://www.linkedin.com/feed/update/urn:li:activity:7531233191660253184/)
 
 ---
 ### 🏦 [Wealth Banking MIS Analytics Dashboard](https://github.com/aquib-tahil46/wealth-mis-migration-dashboard)
