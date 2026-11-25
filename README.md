@@ -42,7 +42,7 @@ Enterprise BI migration case study demonstrating how a Wealth Banking MIS was su
 💻 **[GitHub Repo](https://github.com/aquib-tahil46/Tableau-Power-BI-Migration)**
 
 ---
-### 🏦 [Banking Fraud Analytics Dashboard](https://github.com/aquib-tahil46/Banking-Fraud-Analytics-Power-BI-Dashboard-using-AI)
+### 🏦 [Banking Fraud Analytics Dashboard (Automated using AI)](https://github.com/aquib-tahil46/Banking-Fraud-Analytics-Power-BI-Dashboard-using-AI)
 
 | Power BI · Power Query · DAX · Star Schema · Decomposition Tree |
 
